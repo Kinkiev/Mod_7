@@ -5,7 +5,7 @@ from datetime import datetime
 from random import randint
 
 NUMBER_GROUPS = 3
-NUMBER_STUDENTS = 30
+NUMBER_STUDENTS = 15
 NUMBER_PREDMETS = 5
 NUMBER_TEACHERS = 5
 
